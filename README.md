@@ -13,7 +13,6 @@ Neighbors live in the directly adjacent cells north, east, south, and west of a 
 The grid happiness is the sum of each person's happiness. Return the maximum possible grid happiness.
 
  
-
 Example 1:
 
 ![grid_happiness](https://user-images.githubusercontent.com/88260025/219077565-0dd56b71-670b-44d3-a606-4e2f99ec75fb.png)
